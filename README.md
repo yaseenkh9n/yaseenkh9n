@@ -23,7 +23,6 @@ Enhancing my game development skills through C++ projects and Unity.
 Building interactive web applications using React and CSS frameworks.
 Exploring advanced AI algorithms and applying them to real-world problems.
 📬 Get in Touch
-Email: your-email@example.com
-LinkedIn: linkedin.com/in/your-profile
-Twitter: @your-twitter
+Email: yaseenkh9n@gmail.com
+
 Feel free to browse my repositories, star the ones you like, and don't hesitate to reach out if you want to collaborate! Let's code and innovate together! 🔧🚀
