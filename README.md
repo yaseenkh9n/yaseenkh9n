@@ -1,28 +1,18 @@
-👋 Hey there, I'm Yasin!
-Welcome to my GitHub profile. I'm a passionate Computer Science student at Air University, Islamabad, with a keen interest in front-end development, algorithms, and game development. I enjoy creating intuitive user experiences and building solutions that make an impact.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+</picture>
 
-⚡ About Me
-🧑‍🎓 Currently pursuing Bachelor of Science in Computer Science at Air University, Islamabad.
-💻 Proficient in HTML, CSS, JavaScript, and C++.
-🎮 Diving into game development and exploring machine learning.
-🔍 Always learning and experimenting with new technologies, especially in the realm of web development and AI.
-🚀 Skills & Technologies
-💻 Languages & Frameworks:
-Front-end: HTML, CSS, JavaScript, React
-Back-end: Node.js, Express, Python (Flask)
-Game Development: C++, Unity
-Machine Learning: TensorFlow, OpenCV
-📐 Tools & Platforms:
-Version Control: Git, GitHub
-IDEs: Visual Studio Code, Sublime Text
-Project Management: Trello, Jira
-🔥 GitHub Stats
+# Yasin here 👋🏼, exploring the world of code:
+🚀 Passionate about algorithms, web development, and software engineering.
 
-📝 What I'm Working On
-Enhancing my game development skills through C++ projects and Unity.
-Building interactive web applications using React and CSS frameworks.
-Exploring advanced AI algorithms and applying them to real-world problems.
-📬 Get in Touch
-Email: yaseenkh9n@gmail.com
+### 💻 Tech Stack:
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) 
 
-Feel free to browse my repositories, star the ones you like, and don't hesitate to reach out if you want to collaborate! Let's code and innovate together! 🔧🚀
+💡 Always learning and experimenting with new technologies!
